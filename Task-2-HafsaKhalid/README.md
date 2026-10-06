@@ -35,3 +35,6 @@ This repository contains a simple machine learning classification workflow devel
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn
 - **IDE/Tools:** Visual Studio Code, Jupyter Notebook
+- ## Execution Demo
+
+![classification report](./classification_report.png)
