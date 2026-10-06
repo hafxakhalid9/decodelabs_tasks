@@ -37,4 +37,4 @@ This repository contains a simple machine learning classification workflow devel
 - **IDE/Tools:** Visual Studio Code, Jupyter Notebook
 - ## Execution Demo
 
-![classification report](./classification_report.png)
+![classification report](classification_report.png)
