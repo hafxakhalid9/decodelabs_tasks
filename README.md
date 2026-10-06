@@ -44,3 +44,9 @@ cd Task-2-HafsaKhalid
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+## Repository Overview
+
+| Task | Title | Key Technologies | Status | Directory |
+| :--- | :--- | :--- | :---: | :---: |
+| **Task 1** | Simple Rule-Based Chatbot | Python | Completed | [Task 1 Folder](./Task-1-HafsaKhalid) |
+| **Task 2** | Basic Data Classification Model | Python, Pandas, Scikit-Learn | Completed | [Task 2 Folder](./Task-2-HafsaKhalid) |
