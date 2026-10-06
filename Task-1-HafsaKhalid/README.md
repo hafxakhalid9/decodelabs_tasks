@@ -24,3 +24,6 @@ A simple, interactive rule-based chatbot implemented in Python that responds to 
 - **Greetings:** `hello`, `hi`, `hey`
 - **Questions:** `how are you`, `your name`, `help`
 - **Exit Commands:** `bye`, `exit`, `quit`
+## Execution Demo
+
+![Chatbot Demo](demo_screenshot.png)
