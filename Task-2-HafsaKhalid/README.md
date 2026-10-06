@@ -20,8 +20,8 @@ This repository contains a simple machine learning classification workflow devel
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hafxakhalid9/Task-2-Hafsa-Khalid.git
-   cd Task-2-Hafsa-Khalid
+      git clone https://github.com/hafxakhalid9/decodelabs_tasks.git
+      cd decodelabs_tasks/Task-2-HafsaKhalid
    ```
    **Install dependencies:**
    ```bash
