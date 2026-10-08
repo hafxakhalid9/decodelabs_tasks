@@ -44,3 +44,6 @@ python main.py
 
 - **Terminal Output:** Displays detected text string and confidence score ($0.00$ to $1.00$).
 - **Visual Output:** Opens a window showing green bounding boxes around recognized text regions along with predicted text labels.
+## Output Demo
+
+![OCR Result](demo.png)
